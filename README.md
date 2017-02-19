@@ -7,5 +7,4 @@
 
 ## LeetCode 总结：
 
-- **排序**：[sort.ipynb](https://github.com/applenob/algorithm_note/blob/master/sort.ipynb)
-- **栈stack**：[stack.ipynb](https://github.com/applenob/algorithm_note/blob/master/stack.ipynb)
+- **字符串String**：[String.ipynb](https://github.com/applenob/algorithm_note/blob/master/String.ipynb)
