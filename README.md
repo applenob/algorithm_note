@@ -8,6 +8,8 @@
     - [book_learning_3.ipynb](https://github.com/applenob/algorithm_note/blob/master/book_learning_3.ipynb)
     - [book_learning_4.ipynb](https://github.com/applenob/algorithm_note/blob/master/book_learning_4.ipynb)
     - [book_learning_5.ipynb](https://github.com/applenob/algorithm_note/blob/master/book_learning_5.ipynb)
+    - [book_learning_6.ipynb](https://github.com/applenob/algorithm_note/blob/master/book_learning_6.ipynb)
+    - [book_learning_7.ipynb](https://github.com/applenob/algorithm_note/blob/master/book_learning_7.ipynb)
 
 ## LeetCode 总结：
 
